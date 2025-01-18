@@ -1,9 +1,9 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d5",
-"title":"rou.video",
+"title":"rou.video/home",
 "episode_flag":false,
 "landscape_flag":true,
-"referer":"https://rou.video/home/",
+"referer":"https://rou.video/",
 "open_with_safari_flag":true,	
 "category": [{
 			"title": "新作上市",
