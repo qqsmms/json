@@ -3,7 +3,7 @@
 "title":"rou.video",
 "episode_flag":false,
 "landscape_flag":true,
-"referer":"https://rou.video/home",
+"referer":"https://rou.video/home/",
 "open_with_safari_flag":true,	
 "category": [{
 			"title": "新作上市",
